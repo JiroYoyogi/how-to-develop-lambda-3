@@ -393,7 +393,7 @@ npm run zip
 
 ## APIGatewayとの連携
 
-### APIGを作成
+### APIを作成
 
 - APIタイプ：`HTTP API`
 - API名：`lambda-handson-likes`
