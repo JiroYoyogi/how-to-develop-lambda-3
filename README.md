@@ -556,8 +556,7 @@ dynamodb-policy
 
       const articleId = "123";
       // const API_BASE_URL = "https://xxxxxxxxxx.execute-api.ap-northeast-1.amazonaws.com";
-      const API_BASE_URL =
-        "https://ezvee5xvy5.execute-api.ap-northeast-1.amazonaws.com";
+      const API_BASE_URL = "";
 
       window.onload = async () => {
         try {
