@@ -39,10 +39,6 @@ aws s3 ls
 - インデックス名：`articleId-index`
 - パーティションキー：`articleId`
 
-## コードをDL
-
-[こちらのリポジトリ](https://github.com/JiroYoyogi/how-to-develop-lambda-2-likes)よりコードをDL
-
 ## eventの中身を確認
 
 ```
